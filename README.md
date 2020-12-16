@@ -4,6 +4,12 @@ Optimisation framework for airfoils using Invasive Weed Optimisation - Multi Obj
 
 Runs in high precision mode by using CFD - OpenFOAM v6.
 
+Uses NSGA-II coupled with Invasive Weed Optimization for performing shape optimization of VAWT.
+
+```
+python3 NSIWO.py
+```
+
 This code accompanies the following research papers:
 
   * [A Novel Framework for Multi-Objective Optimization of Airfoils Using Invasive Weed Optimization](https://doi.org/10.2514/6.2020-3118)
